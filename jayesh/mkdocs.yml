@@ -1,0 +1,9 @@
+site_name: Comtel Infosystems Documentation
+nav:
+    - Home: index.md
+    - BIOS Update Guide: bios_update.md
+    - creating bootable drive: creating_bootable_usb.md
+    - configuration of centos7: centos7.md
+    - centos post install: centos_install.md
+theme:
+    name: material
